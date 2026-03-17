@@ -1,0 +1,1 @@
+A tiny plugin to help recognize Webex content on Obsidian pages.
