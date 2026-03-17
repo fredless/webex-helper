@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"baseUrl": "src",
+		"target": "ES6",
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"lib": ["DOM", "ES6", "ES2015.Promise"],
+		"strict": true,
+		"noImplicitAny": true,
+		"outDir": "./dist",
+		"sourceMap": false,
+		"declaration": false,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"isolatedModules": true
+	},
+	"include": ["src/**/*.ts"]
+}
